@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rollinger
-- 👀 I’m interested code
+- 👀 I’m interested in python, C/C++, statistics and ML
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...
