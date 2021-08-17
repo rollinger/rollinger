@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rollinger a Django Fullstack Developer.
 - 👀 I’m interested in python, C/C++, statistics and ML
 - 🌱 I’m currently learning C/C++ at the 42 Code School in Wolfsburg
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m looking to collaborate on interesting projects concerning IoT
 - 📫 How to reach me ...
 
 <!---
