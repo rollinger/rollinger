@@ -1,4 +1,4 @@
-Hi, I’m @rollinger 👋 a Django Full Stack Developer and Creative Explorer of futuristic ideas that can transform our lives. Currently experimenting with C/C++ at 42 Wolfsburg.
+Hi, I’m @rollinger 👋 a Django Full Stack Developer and Creative Explorer of futuristic ideas that can transform our lives. Currently experimenting with C/C++.
 
 I love developing Web Applications with Django, a powerful Python Framework, and translate ideas into code and nice software. I specialize in the Django Backend, REST Endpoints and server integrations. I worked with clients from Australia to Europe and Canada. See my GitHub for various public, open projects I have been working on.
 
