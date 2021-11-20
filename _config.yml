@@ -1,0 +1,5 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Philipp Rollinger - Django Full Stack Developer
+description: Overview over my work and contact.
