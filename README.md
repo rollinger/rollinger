@@ -12,8 +12,6 @@ I am an experienced Django Full Stack Developer with a focus on backend developm
 ★ I speak, write, code and work in english, german and spanish with ease. 
 ★ I love travel and to learn new cultures and ways of life.
 
-Check out my professional and pet projects. Contact me over Telegram @phil_rollinger (https://t.me/phil_rollinger)
-
 <!---
 rollinger/rollinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
