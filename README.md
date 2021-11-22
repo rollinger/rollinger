@@ -6,7 +6,7 @@ I am an experienced Django Full Stack Developer with a focus on backend developm
 
 ★ Over 12 years professional experience in Full Stack Django Development. 
 ★ Developing on latest versions (Dj/Py), with code black, PEP-8 and testing.
-★ GIT and Linux Serves are my second home.
+★ GIT and Linux Servers are my second home.
 ★ I am no seasoned designer, yet I can implement the frontend too, making a clean structure for a designer to continue on.
 ★ Currently learning and adding Vue.js to my stack.
 ★ I speak, write, code and work in english, german and spanish with ease. 
