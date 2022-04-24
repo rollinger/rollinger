@@ -12,17 +12,10 @@ I am an experienced Django Full Stack Developer with a focus on backend developm
 ★ I speak, write, code and work in english, german and spanish with ease. 
 ★ I love travel and to learn new cultures and ways of life.
 
-## Personal HackerRank Profile
-
-[View Profile](https://www.hackerrank.com/philipp_rolling1)
-
-## HackerRank Badges
-
-![Python](https://github.com/rollinger/rollinger/images/PythonBadge_5star.png)
-
-## HackerRank Certificates
-https://www.hackerrank.com/certificates/e585bf32d57a
+## HackerRank Profile, Badges & Certificates [View Profile](https://www.hackerrank.com/philipp_rolling1)
+<a href="https://www.hackerrank.com/philipp_rolling1" target="_blank"> 
+    <img src="images/PythonBadge_5star.png" alt="Python Badge (5-star)" title="Python Badge (5-star)" height="150"/>
 </a>
-<a href="https://github.com/ahmedali20/HackerRankSolutions/blob/main/File%20Certification/Hacker%20Rank%20Java%20Basic%20%20Certificate.png">
-    <img src="Badges/python_basic_skill.png" alt="Python Certificate"/>
+<a href="https://www.hackerrank.com/philipp_rolling1" target="_blank">
+    <img src="images/PythonCertificate.png" alt="Python Certificate" title="Python Certificate" height="150"/>
 </a>
