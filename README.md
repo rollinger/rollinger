@@ -1,8 +1,8 @@
 Hi, I’m @rollinger 👋 a Django Full Stack Developer and Creative Explorer of futuristic ideas.
 
-I love developing Web Applications with Django, a powerful Python Framework, and translate ideas into code. I specialize in the Django Backend, REST Endpoints and server integrations. See my GitHub for a subset of public, open projects I have been working on.
+As an experienced full stack Django developer, I have a passion for turning ideas into code and building powerful web applications using the Django framework. My expertise lies in backend development, including server optimization, deployment chain, testing and API development. I have a strong background in developing REST endpoints and server integrations, and I am always eager to take on new and challenging projects. 
 
-I am an experienced Django Full Stack Developer with a focus on backend development, server optimization, deployment chain, testing and API development.
+You can see a subset of my public and open projects on my GitHub. I am confident that my skills and experience will be valuable in delivering robust and efficient solutions for your project.
 
 - ★ Over 12 years professional experience in Full Stack Django Development. 
 - ★ Developing on latest versions (Dj/Py), with code black, PEP-8 and testing.
