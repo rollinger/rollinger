@@ -4,7 +4,7 @@ As an experienced full stack Django developer, I have a passion for turning idea
 
 You can see a subset of my public and open projects on my GitHub. I am confident that my skills and experience will be valuable in delivering robust and efficient solutions for your project.
 
-- ★ Over 12 years professional experience in Full Stack Django Development. 
+- ★ Over 15 years professional experience in Full Stack Django Development. 
 - ★ Developing on latest versions (Dj/Py), with code black, PEP-8 and testing.
 - ★ GIT and Linux Servers are my second home.
 - ★ I am no seasoned designer, yet I can implement the frontend too, making a clean structure for a designer to continue on.
