@@ -8,7 +8,7 @@ You can see a subset of my public and open projects on my GitHub. I am confident
 - ★ Developing on latest versions (Dj/Py), with code black, PEP-8 and testing.
 - ★ GIT and Linux Servers are my second home.
 - ★ I am no seasoned designer, yet I can implement the frontend too, making a clean structure for a designer to continue on.
-- ★ Currently learning and adding Vue.js to my stack.
+- ★ Can do HTMX and currently adding Vue.js to my stack.
 - ★ I speak, write, code and work in english, german and spanish with ease. 
 - ★ I love travel and to learn new cultures and ways of life.
 
