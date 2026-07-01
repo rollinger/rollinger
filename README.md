@@ -1,20 +1,23 @@
-🚀 Hi, I'm Philipp Rollinger! A seasoned Django Full Stack Developer, IT Architect, and passionate educator, dedicated to molding the digital world with over 15 years of expertise in Python and Django development. 🌟
+Hi, I'm Philipp. I build tools to build the web, better yet.
 
-🛠️ My technical prowess spans comprehensive backend development, including advanced Linux server optimization, seamless deployment processes, and robust API development. I thrive on transforming complex ideas into dynamic, efficient web applications, specializing in crafting REST endpoints and ensuring seamless server integrations. 
+My Primary Project: Djxi
+I am the core maintainer and architect of Djxi, a robust Django starter kit designed to solve the "boilerplate hell" of modern web development. My goal is to provide a high-quality, production-ready baseline that allows teams to focus on their business logic rather than infrastructure.
 
-📚 Beyond coding, I ignite the curiosity of budding programmers by teaching Python and mentoring them through their coding adventures, sharing the joy and challenges of turning abstract concepts into tangible solutions.
+What makes Djxi stand out:
 
-🔗 Dive into my coding universe on my GitHub (https://github.com/rollinger), where my projects showcase my commitment to structured, well-documented code and my ability to adapt to the latest technological advancements. 
+✅ Production Ready: Pre-configured for deployment with best practices in security and performance.
 
-🔧 With a diverse skill set that includes front-end development using cutting-edge tools like HTMX, jQuery, Vue.js, and React, I am a versatile developer who can also handle design essentials, making it easier for designers to build on my work.
+✅ Architectural Clarity: Emphasis on clean, decoupled code.
 
-🌍 Fluent in English, German, and Spanish, I navigate multicultural environments with ease, driven by a passion for learning about new cultures and lifestyles through my travels.
+✅ Developer Experience: Focused on automation and reducing manual setup friction.
 
-✨ Whether you're seeking a strategic consultant to bring your next idea to life or a mentor to guide you through the complexities of software development, I am ready to help you succeed. Let's build something great together!
+Beyond the Code:
 
-🏋️‍♂️ Outside of tech, I'm a fitness enthusiast and a budding badminton player, always ready for the next challenge.
+Professional Background: 15+ years in Software Architecture and Full Stack Development.
 
-🌐 Available for projects and mentorship. Connect with me to explore how we can turn your futuristic ideas into today's reality!
+Core Tech Stack: Python, Django, PostgreSQL, Docker, Linux.
+
+Mentorship: I actively help developers level up their Python and Django skills.
 
 ## HackerRank Profile, Badges & Certificates [View Profile](https://www.hackerrank.com/philipp_rolling1)
 <a href="https://www.hackerrank.com/philipp_rolling1" target="_blank"> 
